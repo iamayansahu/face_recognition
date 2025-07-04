@@ -38,6 +38,15 @@ Saves best model based on validation accuracy
 
     Training Accuracy: 98.52%
 
+
+# 📊 Validation Classification Report:
+                           precision    recall    f1-score   support
+    macro avg                0.99        1.00      0.99       3757
+    weighted avg             0.99        0.98      0.98       3757 
+    accuracy                                       0.98       3757
+
+    Validation Accuracy: 98.06%
+
 **Test**
 
 Edit image path in test_b.py:
