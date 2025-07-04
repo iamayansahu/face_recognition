@@ -31,10 +31,10 @@ Saves best model based on validation accuracy
 
 
 # 📊 Training Classification Report:
-                   precision    recall    f1-score   support
-     macro avg       0.99        1.00      1.00       15027
-  weighted avg       0.99        0.99      0.99       15027 
-    accuracy                               0.99       15027
+                           precision    recall    f1-score   support
+    macro avg                0.99        1.00      1.00       15027
+    weighted avg             0.99        0.99      0.99       15027 
+    accuracy                                       0.99       15027
 
     Training Accuracy: 98.52%
 
